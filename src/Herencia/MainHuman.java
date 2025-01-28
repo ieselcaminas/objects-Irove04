@@ -1,6 +1,6 @@
 package Herencia;
 
-import flujos.Human;
+import Herencia.Human;
 
 import java.util.ArrayList;
 import java.util.List;

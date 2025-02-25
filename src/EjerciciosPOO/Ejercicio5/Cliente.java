@@ -7,7 +7,7 @@ import java.util.List;
 public class Cliente {
     private String nombre;
     private String dni;
-    CuentaCorriente cuentaCorriente;
+    private CuentaCorriente cuentaCorriente;
 
     //Añadimos una lista por que un cliente puede tener varios prestamos
     List<Prestamo> prestamos;

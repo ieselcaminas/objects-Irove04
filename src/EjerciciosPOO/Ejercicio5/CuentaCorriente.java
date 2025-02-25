@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class CuentaCorriente {
     private int numeroCC;
-    Cliente cliente;
+    private Cliente cliente;
     Sucursal sucursal;
     ArrayList<Domiciliacion> domiciliaciones;
 

@@ -1,6 +1,6 @@
 package Herencia;
 
-public class Gato extends Mamifero {
+public class Gato extends Mamifero implements Jugar{
     public Gato(String nombre) {
         super(nombre);
     }
